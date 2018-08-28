@@ -22,4 +22,6 @@ def printer(array)
   array.each do |item|
     puts "Hello, my name is #{item}."
   end
+  array.each_with_index do |name, index| 
+    puts 
 end
