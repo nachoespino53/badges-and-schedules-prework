@@ -8,7 +8,7 @@ end
 #  batch_array.push(badge_maker(name))
 #  }
 #  return batch_array
-end
+#end
 
 #assign_room(array)
 #room_asssignments = []
