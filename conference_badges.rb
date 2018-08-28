@@ -4,10 +4,10 @@ end
 
 #batch_badge_creator(array)
 #  batch_array = []
-  array.each { |name|
-  batch_array.push(badge_maker(name))
-  }
-  return batch_array
+#  array.each { |name|
+#  batch_array.push(badge_maker(name))
+#  }
+#  return batch_array
 end
 
 #assign_room(array)
