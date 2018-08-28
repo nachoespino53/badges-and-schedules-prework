@@ -17,3 +17,9 @@ array.each_with_index { |name, index|
 }
 return room_asssignments
 end
+
+def printer(array)
+  array.each |item| do
+    puts item
+  end
+end
