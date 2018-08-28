@@ -19,7 +19,7 @@ return room_asssignments
 end
 
 def printer(array)
-  array.each |item| do
+  array.each do |item|
     puts item
   end
 end
